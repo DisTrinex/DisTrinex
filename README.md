@@ -1,4 +1,4 @@
-##👋 Hi, I'm TADJER Abderrahmane
+👋 Hi, I'm TADJER Abderrahmane
 
 🎓 AI Engineering Student
 🤖 Passionate about Artificial Intelligence, Machine Learning, and Problem Solving
