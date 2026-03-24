@@ -11,20 +11,15 @@ I am an Artificial Intelligence Engineering student with a strong foundation in 
 
 ## Skills
 
-### Programming
-- Python
-- C / C++
-- Java
+### Programming Languages
+![Programming](https://skillicons.dev/icons?i=cpp,python,cs)
 
-### Artificial Intelligence
-- Machine Learning
-- Neural Networks
-- Data Analysis
+### Web Development
+![Web](https://skillicons.dev/icons?i=html,css,js)
 
-### Tools
-- Git
-- Linux
-- Jupyter Notebook
+### Tools and Frameworks
+![Tools](https://skillicons.dev/icons?i=nodejs,react,git)
+
 
 ---
 
