@@ -1,41 +1,39 @@
-# TADJER Abderrahmane
+👋 Hi, I'm TADJER Abderrahmane
+
+🎓 AI Engineering Student  
+🤖 Passionate about Artificial Intelligence, Machine Learning, and Problem Solving.  
+🚀 Building intelligent systems assist in diagnosis, data analysis, and healthcare innovation.  
 
 ---
 
-## Profile
-I am an Artificial Intelligence Engineering student with a strong foundation in programming, mathematics, and algorithmic problem solving. I am particularly interested in the application of artificial intelligence in the medical field, with the goal of developing systems that assist in diagnosis, data analysis, and healthcare innovation.
+🧠 About Me  
+🎯 Currently specializing in Artificial Intelligence & Machine Learning  
+💡 Interested in Deep Learning, Data Science, and Algorithms  
+📚 Continuously learning and improving my skills  
+🔍 Focused on turning data into meaningful insights  
 
 ---
 
-## Skills
-
-### Programming
-- Python
-- C / C++
-- Java
-
-### Artificial Intelligence
-- Machine Learning
-- Neural Networks
-- Data Analysis
-
-### Tools
-- Git
-- Linux
-- Jupyter Notebook
+⚙️ Skills  
+**Languages:** Python, C/C++, Java  
+**AI/ML:** Machine Learning, Neural Networks, Deep Learning  
+**Tools & Frameworks:** Git, Linux, Jupyter Notebook, Unreal Engine  
+**Concepts:** Data Structures, Algorithms, Problem Solving  
 
 ---
 
-## Objectives
-- Develop impactful AI-based projects
-- Strengthen theoretical and practical knowledge in machine learning
-- Apply AI techniques to real-world medical problems
+📊 Current Goals  
+🚀 Build impactful AI projects  
+📈 Strengthen problem-solving and algorithmic thinking  
+🧠 Master advanced Machine Learning & Deep Learning  
+🌍 Contribute to open-source projects  
+
 
 ---
 
+📫 Contact Me  
+📧 Email: abderrahmane.tadjer@ensia.edu.dz 
 
-## Contact
-- Email: abderrahmane.tadjer@ensia.edu.dz
 
 <!--
 **DisTrinex/DisTrinex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
