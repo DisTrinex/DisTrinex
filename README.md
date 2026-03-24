@@ -1,7 +1,5 @@
 # TADJER Abderrahmane
 
-## Artificial Intelligence Engineering Student
-
 ---
 
 ## Profile
@@ -12,13 +10,23 @@ I am an Artificial Intelligence Engineering student with a strong foundation in 
 ## Skills
 
 ### Programming Languages
-![Programming](https://skillicons.dev/icons?i=cpp,python,cs)
+<img src="https://skillicons.dev/icons?i=cpp" width="30" height="30"/> 
+<img src="https://skillicons.dev/icons?i=python" width="30" height="30"/> 
+<img src="https://skillicons.dev/icons?i=cs" width="30" height="30"/> 
 
 ### Web Development
-![Web](https://skillicons.dev/icons?i=html,css,js)
+<img src="https://skillicons.dev/icons?i=html" width="30" height="30"/> 
+<img src="https://skillicons.dev/icons?i=css" width="30" height="30"/> 
+<img src="https://skillicons.dev/icons?i=js" width="30" height="30"/> 
 
 ### Tools and Frameworks
-![Tools](https://skillicons.dev/icons?i=nodejs,react,git)
+<img src="https://skillicons.dev/icons?i=nodejs" width="30" height="30"/> 
+<img src="https://skillicons.dev/icons?i=react" width="30" height="30"/> 
+<img src="https://skillicons.dev/icons?i=git" width="30" height="30"/> 
+
+### Currently Learning
+<img src="https://skillicons.dev/icons?i=tensorflow" width="30" height="30"/> 
+<img src="https://skillicons.dev/icons?i=pytorch" width="30" height="30"/> 
 
 
 ---
