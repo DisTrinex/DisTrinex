@@ -9,13 +9,22 @@ I am an Artificial Intelligence Engineering student with a strong foundation in 
 
 ## Skills
 
-**Programming Languages:**  <img src="https://skillicons.dev/icons?i=cpp" width="25"/> <img src="https://skillicons.dev/icons?i=python" width="25"/> <img src="https://skillicons.dev/icons?i=cs" width="25"/>  
+### Programming
+- Python
+- C / C++
+- Java
 
-**Web Development:**  <img src="https://skillicons.dev/icons?i=html" width="25"/> <img src="https://skillicons.dev/icons?i=css" width="25"/> <img src="https://skillicons.dev/icons?i=js" width="25"/>  
+### Artificial Intelligence
+- Machine Learning
+- Neural Networks
+- Data Analysis
 
-**Tools and Frameworks:**  <img src="https://skillicons.dev/icons?i=nodejs" width="25"/> <img src="https://skillicons.dev/icons?i=react" width="25"/> <img src="https://skillicons.dev/icons?i=git" width="25"/> <img src="https://skillicons.dev/icons?i=wpf" width="25"/>  
+### Tools
+- Git
+- Linux
+- Jupyter Notebook
 
-**Currently Learning:**  <img src="https://skillicons.dev/icons?i=tensorflow" width="25"/> <img src="https://skillicons.dev/icons?i=pytorch" width="25"/>
+---
 
 ---
 
