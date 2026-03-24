@@ -9,25 +9,25 @@ I am an Artificial Intelligence Engineering student with a strong foundation in 
 
 ## Skills
 
-**Programming Languages**  
-<img src="https://skillicons.dev/icons?i=cpp" width="30"/> 
-<img src="https://skillicons.dev/icons?i=python" width="30"/> 
-<img src="https://skillicons.dev/icons?i=cs" width="30"/>  
+**Programming Languages:**  
+<img src="https://skillicons.dev/icons?i=cpp" width="25"/> C++ &nbsp;&nbsp; 
+<img src="https://skillicons.dev/icons?i=python" width="25"/> Python &nbsp;&nbsp; 
+<img src="https://skillicons.dev/icons?i=cs" width="25"/> C#  
 
-**Web Development**  
-<img src="https://skillicons.dev/icons?i=html" width="30"/> 
-<img src="https://skillicons.dev/icons?i=css" width="30"/> 
-<img src="https://skillicons.dev/icons?i=js" width="30"/>  
+**Web Development:**  
+<img src="https://skillicons.dev/icons?i=html" width="25"/> HTML5 &nbsp;&nbsp; 
+<img src="https://skillicons.dev/icons?i=css" width="25"/> CSS3 &nbsp;&nbsp; 
+<img src="https://skillicons.dev/icons?i=js" width="25"/> JavaScript  
 
-**Tools and Frameworks**  
-<img src="https://skillicons.dev/icons?i=nodejs" width="30"/> 
-<img src="https://skillicons.dev/icons?i=react" width="30"/> 
-<img src="https://skillicons.dev/icons?i=git" width="30"/>  
+**Tools and Frameworks:**  
+<img src="https://skillicons.dev/icons?i=nodejs" width="25"/> Node.js &nbsp;&nbsp; 
+<img src="https://skillicons.dev/icons?i=react" width="25"/> React &nbsp;&nbsp; 
+<img src="https://skillicons.dev/icons?i=git" width="25"/> Git &nbsp;&nbsp; 
+<img src="https://skillicons.dev/icons?i=wpf" width="25"/> WPF  
 
-**Currently Learning**  
-<img src="https://skillicons.dev/icons?i=tensorflow" width="30"/> 
-<img src="https://skillicons.dev/icons?i=pytorch" width="30"/> 
-
+**Currently Learning:**  
+<img src="https://skillicons.dev/icons?i=tensorflow" width="25"/> TensorFlow &nbsp;&nbsp; 
+<img src="https://skillicons.dev/icons?i=pytorch" width="25"/> PyTorch  
 
 ---
 
