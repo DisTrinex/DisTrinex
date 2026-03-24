@@ -26,8 +26,6 @@ I am an Artificial Intelligence Engineering student with a strong foundation in 
 
 ---
 
----
-
 ## Objectives
 - Develop impactful AI-based projects
 - Strengthen theoretical and practical knowledge in machine learning
