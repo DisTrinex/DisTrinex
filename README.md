@@ -1,4 +1,4 @@
-👋 Hi, I'm TADJER Abderrahmane
+# 👋 Hi, I'm TADJER Abderrahmane
 
 🎓 AI Engineering Student  
 🤖 Passionate about Artificial Intelligence, Machine Learning, and Problem Solving.  
@@ -6,7 +6,7 @@
 
 ---
 
-🧠 About Me  
+## 🧠 About Me  
 🎯 Currently specializing in Artificial Intelligence & Machine Learning  
 💡 Interested in Deep Learning, Data Science, and Algorithms  
 📚 Continuously learning and improving my skills  
@@ -14,7 +14,7 @@
 
 ---
 
-⚙️ Skills  
+## ⚙️ Skills  
 **Languages:** Python, C/C++, Java  
 **AI/ML:** Machine Learning, Neural Networks, Deep Learning  
 **Tools & Frameworks:** Git, Linux, Jupyter Notebook, Unreal Engine  
@@ -22,7 +22,7 @@
 
 ---
 
-📊 Current Goals  
+## 📊 Current Goals  
 🚀 Build impactful AI projects  
 📈 Strengthen problem-solving and algorithmic thinking  
 🧠 Master advanced Machine Learning & Deep Learning  
@@ -31,7 +31,7 @@
 
 ---
 
-📫 Contact Me  
+## 📫 Contact Me  
 📧 Email: abderrahmane.tadjer@ensia.edu.dz 
 
 
