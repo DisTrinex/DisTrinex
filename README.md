@@ -8,11 +8,18 @@ I am an Artificial Intelligence Engineering student with a strong foundation in 
 ---
 
 ## Skills
-**Programming Languages:** C++, Python, C#  
-**Web Development:** HTML5, CSS3, JavaScript  
-**Tools and Frameworks:** Node.js, React, WPF  
-**Currently Learning:** Machine Learning, Deep Learning
 
+**Programming Languages:**  
+<img src="https://skillicons.dev/icons?i=cpp" width="25"/> <img src="https://skillicons.dev/icons?i=python" width="25"/> <img src="https://skillicons.dev/icons?i=cs" width="25"/>  
+
+**Web Development:**  
+<img src="https://skillicons.dev/icons?i=html" width="25"/> <img src="https://skillicons.dev/icons?i=css" width="25"/> <img src="https://skillicons.dev/icons?i=js" width="25"/>  
+
+**Tools and Frameworks:**  
+<img src="https://skillicons.dev/icons?i=nodejs" width="25"/> <img src="https://skillicons.dev/icons?i=react" width="25"/> <img src="https://skillicons.dev/icons?i=git" width="25"/> <img src="https://skillicons.dev/icons?i=wpf" width="25"/>  
+
+**Currently Learning:**  
+<img src="https://skillicons.dev/icons?i=tensorflow" width="25"/> <img src="https://skillicons.dev/icons?i=pytorch" width="25"/>
 
 ---
 
